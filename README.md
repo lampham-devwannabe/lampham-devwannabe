@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Thanh Lam</h1>
-<h3 align="center">A passionate full stack wannabe developer from Ha Noi, Viet Nam</h3>
+<h3 align="center">A passionate backend developer wannabe from Ha Noi, Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lampham-devwannabe&label=Profile%20views&color=0e75b6&style=flat" alt="lampham-devwannabe" /> </p>
 
